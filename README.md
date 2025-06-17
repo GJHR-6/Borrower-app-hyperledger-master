@@ -1,4 +1,22 @@
 # The borrower App
+Borrower App is a **blockchain-based lending platform** built on **Hyperledger Fabric**, designed to facilitate secure and transparent transactions between borrowers and lenders. It ensures **trust, automation, and efficiency** in financial interactions.
+
+## 🎯 Project Objectives
+- **Enhance security** in borrower-lender transactions using blockchain.
+- **Automate loan processing** with smart contracts.
+- **Ensure transparency** through decentralized data management.
+
+## 🔥 Key Features
+- **Smart contract-driven loan approvals**.
+- **Decentralized ledger** for secure transaction tracking.
+- **Automated borrower risk assessment**.
+
+## 🛠️ Technologies Used
+- **Blockchain Framework:** Hyperledger Fabric
+- **Programming Language:** JavaScript, Go
+- **Database:** CouchDB
+- **Smart Contracts:** Chaincode (Go)
+- **Version Control:** GitHub
 
 ## Prerequisites
 
